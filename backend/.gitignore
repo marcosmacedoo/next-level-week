@@ -114,4 +114,6 @@ typings/
 # Ignore all local history of files
 .history
 
+anotacoes.md
+
 # End of https://www.toptal.com/developers/gitignore/api/node,linux,visualstudiocode
