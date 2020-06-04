@@ -114,6 +114,13 @@ typings/
 # Ignore all local history of files
 .history
 
+# Minhas anotações
+
 anotacoes.md
+
+# Sqlite
+
+src/database/database.sqlite
+*.sqlite
 
 # End of https://www.toptal.com/developers/gitignore/api/node,linux,visualstudiocode
