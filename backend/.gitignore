@@ -123,4 +123,9 @@ anotacoes.md
 src/database/database.sqlite
 *.sqlite
 
+# Imagens 
+uploads/*.jpg
+uploads/*.jpg
+uploads/*.png
+
 # End of https://www.toptal.com/developers/gitignore/api/node,linux,visualstudiocode
